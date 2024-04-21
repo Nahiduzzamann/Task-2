@@ -1,0 +1,1 @@
+This is a react application haveing some issues/bugs. All instructions are provided in the code below, within the 'src/App.js' file. Please read it carefully and solve the bugs.
